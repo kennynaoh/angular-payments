@@ -1,5 +1,7 @@
 # Angular Payments
 
+[![CDNJS](https://img.shields.io/cdnjs/v/zumper-angular-payments.svg)](https://cdnjs.com/libraries/zumper-angular-payments)
+
 An Angular Module that provides directives for *formatting* and *validating* forms related to payments. Also, it ships with a directive that makes it easy to integrate with Stripe's wonderful stripe.js.
 
 ![animated example of using Angular Payments](example/example.gif)
